@@ -1,20 +1,19 @@
 {
-  "name": "building-e-commerce-in-amp",
+  "name": "e-commerce-in-amp",
   "version": "0.1.0",
-  "description": "Codelab that explores the tools for building e-commerce pages in AMP.",
+  "description": "e-commerce pages in AMP.",
   "main": "app.js",
   "keywords": [
     "AMP",
     "amp-bind",
     "Google",
-    "I/O 2018",
-    "Codelab"
+    "I/O 2018"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlecodelabs/building-e-commerce-amp.git"
+    "url": "https://github.com/bernestoalberto/e-commerce-amp.git"
   },
-  "author": "cchiappini",
+  "author": "bernestoalberto",
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.15.2",
