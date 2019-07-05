@@ -1,6 +1,6 @@
 module.exports = {
     apps: [{
-      name: "app",
+      name: "EComerce",
       script: "app.js",
       output: './out.log',
       error: './error.log',
