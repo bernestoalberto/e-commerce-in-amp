@@ -314,8 +314,8 @@ function getUrlPrefix(req) {
 
 app.use('/', express.static('static'));
 
-app.listen(3000, function() {
+app.listen(3001, function() {
   console.log(
-    'Server for "E-commerce AMP" codelab listening on port 3000!'
+    'Server for "E-commerce AMP"  listening on port 3001!'
   );
 });
